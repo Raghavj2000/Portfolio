@@ -12,7 +12,7 @@ const Hero = () => {
     <section className='w-full py-40 flex items-center justify-center gap- relative'>
         <div className='flex  items-center justify-between w-[65vw] flex-warp sm:flex-col lg:flex-row '>
       <div className='flex items-start justify-center flex-col gap-7'>
-            <h1 className='text-6xl sm:text-4xl md:text-5xl lg:text-6xl font-light'>I'm <span className='font-medium'>Raghavendra J</span></h1>
+            <h1 className='text-6xl sm:text-4xl md:text-5xl lg:text-6xl font-light'>I&apos;m <span className='font-medium'>Raghavendra J</span></h1>
             <h2 className='text-2xl'>Designer, Coder, Front-end Developer, Gamer and Student.</h2>
       </div>
       <div>
