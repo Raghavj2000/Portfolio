@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="flex flex-col justify-start items-start flex-wrap">
           <h1 className="text-4xl font-medium mb-5">Just say hi,</h1>
           <p className="text-xl w-80 mb-2">
-           {"I'm always open to discuss new projects and your ideas."} 
+           I&apos;m always open to discuss new projects and your ideas.
           </p>
           <div className="w-full flex gap-11 justify-between items-center">
             <div className="flex flex-col gap-2 items-start justify-center flex-wrap">

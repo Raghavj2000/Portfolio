@@ -17,7 +17,7 @@ const About = () => {
         <div className='flex flex-col items-start justify-center  py-1 '>
             <IoGameController className='size-8 mb-2 '/>
             <h2 className='text-xl font-medium'>Gaming</h2>
-            <p className='text-lg w-72 text-pretty  text-gray-500'>{"In my free time, I'm passionate about gaming. Exploring virtual worlds is my favorite pastimes."}</p>
+            <p className='text-lg w-72 text-pretty  text-gray-500'>In my free time, I&apos;am passionate about gaming. Exploring virtual worlds is my favorite pastimes.</p>
         </div>
         <div className='flex flex-col items-start justify-center  py-1 '>
             <LuAppWindow className='size-8 mb-2 '/>
