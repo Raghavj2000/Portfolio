@@ -15,7 +15,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning="true">
-      <meta name="google-site-verification" content="n-_jc5dEY_FZHpfP5K8deY0kAOOeeUZWWo-_z-7sjhc" />
+    
       <body className={inter.className}>
         <Navbar/>   
         {children}
